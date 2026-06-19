@@ -4,12 +4,11 @@ Abstract Sans is a modern neo-grotesque sans-serif typeface designed for cleanli
 
 ## Font Information
 
-|  |  |
+| Official Publication Name | Abstract Sans |
 |---|---|
-| **Official Publication Name** | Abstract Sans |
-| **Reserved Font Names** | Abstract, Abstract Sans |
-| **Designer** | [Cooper Bacon](https://www.cooperbacon.com) |
-| **License** | SIL Open Font License 1.1 |
+| Reserved Font Names | Abstract, Abstract Sans |
+| Designer | [Cooper Bacon](https://www.cooperbacon.com) |
+| License | SIL Open Font License 1.1 |
 
 ## License
 
